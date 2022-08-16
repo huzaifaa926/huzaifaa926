@@ -17,33 +17,6 @@ Hey, I'm Huzaifa Abid
 [![Huzafa's github stats](https://github-readme-stats.vercel.app/api?username=huzaifaa926&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-385%20hrs%2035%20mins-blue)
-
-**🐱 My GitHub Data** 
-
-> 🏆 23 Contributions in the Year 2022
- > 
-> 📦 1.3 MB Used in GitHub's Storage 
- > 
-> 💼 Opted to Hire
- > 
-> 📜 106 Public Repositories 
- > 
-> 🔑 60 Private Repositories  
- > 
-**I'm a Morning Person** 
-
-```text
-🌞 Morning    55 commits     ████░░░░░░░░░░░░░░░░░░░░░   16.03% 
-🌆 Daytime    93 commits     ██████░░░░░░░░░░░░░░░░░░░   27.11% 
-🌃 Evening    124 commits    █████████░░░░░░░░░░░░░░░░   36.15% 
-🌙 Night      71 commits     █████░░░░░░░░░░░░░░░░░░░░   20.7%
-
-```
-
-
-
- Last Updated on 16/08/2022 10:31:30 UTC
 <!--END_SECTION:waka-->
 
 
