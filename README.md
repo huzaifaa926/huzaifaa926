@@ -16,13 +16,13 @@
 ---
 <br>
 
-[![Huzaifa's GitHub stats](https://github-readme-stats.vercel.app/api?username=huzaifaa926&show_icons=true&theme=radical)](https://github.com/huzaifaa926)
+[![Huzaifa's GitHub stats](https://github-readme-stats.vercel.app/api?username=huzaifaa926&show_icons=true&theme=dark)](https://github.com/huzaifaa926)
 
-[![Huzaifa's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=huzaifaa926&layout=compact&theme=radical)](https://github.com/huzaifaa926)
+[![Huzaifa's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=huzaifaa926&layout=compact&theme=dark)](https://github.com/huzaifaa926)
 
 
 
-[![Huzaifa's GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=huzaifaa926&theme=radical&date_format=M%20j%5B%2C%20Y%5D)](https://github.com/huzaifaa926)
+[![Huzaifa's GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=huzaifaa926&theme=dark&date_format=M%20j%5B%2C%20Y%5D)](https://github.com/huzaifaa926)
 
 ---
 
@@ -32,7 +32,7 @@
 ---
 
 ## 🏆GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=huzaifaa926&theme=radical&no-frame=false&no-bg=false&margin-w=4)
+![](https://github-profile-trophy.vercel.app/?username=huzaifaa926&theme=dark&no-frame=false&no-bg=false&margin-w=4)
 
 ---
 
